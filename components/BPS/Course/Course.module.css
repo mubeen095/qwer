@@ -1,0 +1,49 @@
+.courseContainer {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.courseContainer h1,
+.courseContainer h2 {
+  padding: 20px;
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+.courseContainer p {
+  padding: 5px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.overviewTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.overviewTable th,
+.overviewTable td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.overviewTable th {
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+.overviewTable tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.overviewTable tr:hover {
+  background-color: #f1f1f1;
+}
+.courseContainer ul {
+  padding: 20px;
+}
+.courseContainer ul li {
+  padding: 10px;
+}
